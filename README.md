@@ -99,7 +99,7 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 
 ### `• Deploy To Heroku 🚀`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pakaya8/Alpha-X-WA-Bot-Installer)
 
 > Click the logo to watch Bot tutorial video ✅
 
@@ -143,17 +143,17 @@ it may banned your account from whatsapp 🚫
 <summary><b><h1 align="center">Features 🔥 ==</h1></b></summary>
 <p align="left">
 
-`📜 command:` install <br>
+`💀 command:` install <br>
 `📍 description:` Install external plugins. <br>
 `⚠️️ Warn:` Get plugins only from [here](https://t.me/AlphaXplugin).
 
-`📜 command:` plugin<br>
+`💀 command:` plugin<br>
 `📍 description:` Shows the plugins you have installed. 
 
-`📜 command:` remove<br>
+`💀 command:` remove<br>
 `📍 description:` Removes the plugin. 
 
-`📜 command:` admin<br>
+`💀 command:` admin<br>
 `📍 description:` Admin menu. 
 
 `📜 command:` ban <br>
